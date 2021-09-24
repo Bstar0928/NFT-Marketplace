@@ -1,0 +1,25 @@
+.nft__history {
+    position: relative;
+    padding: 10px;
+    border: solid 1px #ddd;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    margin-bottom: 25px;
+    background: #ffffff;    
+}
+
+.dark-scheme .nft__history{
+    border: solid 1px rgba(255, 255, 255, .1);
+    background: rgba(255, 255, 255, .04);
+}
+.tableNo {
+    text-align: center;    
+    margin: auto;
+    padding-top: 10px;    
+}
+.nft__img {
+    display: flex;
+    margin: auto;
+    align-items: center;
+}
